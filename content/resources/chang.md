@@ -4,6 +4,8 @@ description: 'Example of student work: "Choosing a Game" by Benjamin Chang.'
 file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/a4f698b913489ce3feb0017a54444ba5_chang.pdf
 file_size: 85983
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

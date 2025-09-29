@@ -13,7 +13,7 @@ This section contains the required readings, which are also presented by [sessio
 
 ## Assigned Readings{{< anchor "Readings_by_Session" >}}{{< /anchor >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Salen, K., and E. Zimmerman. {{% resource_link "c0f35290-8f90-4cde-8255-e92fb23a53b2" "_The Game Design Reader: A Rules of Play Anthology_" %}}. Cambridge, MA: MIT University Press, 2005. ISBN: 9780262195362.
+![Buy at MIT Press](/images/mp_logo.gif) Salen, K., and E. Zimmerman. [_The Game Design Reader: A Rules of Play Anthology_](https://mitpress.mit.edu/9780262195362). Cambridge, MA: MIT University Press, 2005. ISBN: 9780262195362.
 
 Frasca, G. "Simulation Versus Narrative: Introduction to Ludology." _Video Game Theory Reader_. Edited by M. Wolf and B. Perron. New York, NY: Routledge, 2003. ISBN: 9780415965781.
 
@@ -23,7 +23,7 @@ Yee, N. "Motivations of Play in Online Games." _CyberPsychology and Behavior_ 9 
 
 DeVane, B., and K. D. Squire. "The Meanings of Race and Violence in Grand Theft Auto: San Andreas." _Games and Culture_. (Forthcoming)
 
-![Buy at MIT Press](/images/mp_logo.gif) Consalvo, M., ed. "The Cheaters." In {{% resource_link "110a5122-9381-409c-9f75-c39f1e9aafd9" "_Cheating: Gaining Advantage in Videogames_" %}}. Cambridge, MA: MIT University Press, 2007. ISBN: 9780262033657.
+![Buy at MIT Press](/images/mp_logo.gif) Consalvo, M., ed. "The Cheaters." In [_Cheating: Gaining Advantage in Videogames_](https://mitpress.mit.edu/9780262033657). Cambridge, MA: MIT University Press, 2007. ISBN: 9780262033657.
 
 ## Readings by Session{{< anchor "Optional_Readings" >}}{{< /anchor >}}
 

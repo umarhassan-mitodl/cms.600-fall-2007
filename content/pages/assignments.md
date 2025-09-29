@@ -24,7 +24,7 @@ You will have 10 minutes to create your game, and then you'll pitch it to the cl
 Weekly Writings ({{% resource_link 27422620-efa8-2dce-c8e8-c59eb7767e9b "examples" "#weekly" %}})
 -------------------------------------------------------------------
 
-(Adapted from Prof. Charles L. Cohen, UW-Madison History Dept., "{{% resource_link "e94349b2-ff26-447a-9887-331e0ec36f0c" "The Fifty-Word Assignment." %}}")
+(Adapted from Prof. Charles L. Cohen, UW-Madison History Dept., "[The Fifty-Word Assignment.](https://dept.writing.wisc.edu/wac/the-50-word-assignment/)")
 
 Each week, you will be expected to complete roughly 30-50 pages of readings for class. Midterm and Final exams will be largely based on these readings. In order to help you keep up and prepare you for these exams, you must complete a short writing assignment.
 

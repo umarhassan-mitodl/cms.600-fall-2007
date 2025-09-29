@@ -3,6 +3,8 @@ content_type: page
 description: The syllabus section provides the course description and information
   about course goals, required texts, student requirements, weekly details, grading,
   resources, plagiarism, and recommended citation.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -38,7 +40,7 @@ Course Goals
 Required Texts
 --------------
 
-{{% resource_link "c0f35290-8f90-4cde-8255-e92fb23a53b2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, K., and E. Zimmerman. {{% resource_link "c0f35290-8f90-4cde-8255-e92fb23a53b2" "_The Game Design Reader: A Rules of Play Anthology_" %}}. Cambridge, MA: MIT University Press, 2005. ISBN: 9780262195362.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195362) Salen, K., and E. Zimmerman. [_The Game Design Reader: A Rules of Play Anthology_](https://mitpress.mit.edu/9780262195362). Cambridge, MA: MIT University Press, 2005. ISBN: 9780262195362.
 
 Please check the MIT Press Bookstore for discounted student copies.
 
@@ -140,9 +142,9 @@ All written and submitted work will have the potential to be made public and ava
 Resources
 ---------
 
-The Writing and Communication Center offers you free professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing. Go to {{% resource_link "df71c6e0-0c58-4ea0-b63e-46dcd9ced130" "MIT online Writing and Communication Center" %}} and click on the yellow sunburst. If you cannot find an open appointment slot, do not despair. There are always cancellations on the day of the appointment (sometimes as many as 15 cancellations in one day). Click on the Wait List (the blue strip that says "**Is the time that you want already reserved?**"). Whenever a cancellation occurs on that day, you will be automatically notified by email. Because several people might receive that same message, go online ASAP to schedule that open spot; 96% of clients who want an appointment end up with one **if** they use the Wait List. If you still can't find an appointment, try the {{% resource_link "9f783330-43bb-4216-800d-a8238e0bca99" "Online Tutor" %}}.
+The Writing and Communication Center offers you free professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing. Go to [MIT online Writing and Communication Center](http://web.mit.edu/writing) and click on the yellow sunburst. If you cannot find an open appointment slot, do not despair. There are always cancellations on the day of the appointment (sometimes as many as 15 cancellations in one day). Click on the Wait List (the blue strip that says "**Is the time that you want already reserved?**"). Whenever a cancellation occurs on that day, you will be automatically notified by email. Because several people might receive that same message, go online ASAP to schedule that open spot; 96% of clients who want an appointment end up with one **if** they use the Wait List. If you still can't find an appointment, try the [Online Tutor](http://web.mit.edu/writing/Center/onlinetutor.html).
 
 Plagiarism
 ----------
 
-Lucky for all of you, I will devote some specific class time to talking about plagiarism and how to cite sources properly. Unlucky for you, I'll hold you to that knowledge. In other words, if you've not had practice in learning how to cite sources properly, I'd suggest you spend some time with the Writing and Communication Center or come to my office and I'll walk you through it personally. Since the midterm and final exam have writing components to them, you might want to spend some time learning the difference between a reference list and an in-text citation, between MLA and APA, between a quotation and a paraphrase. More information on MIT's policy is available here: {{% resource_link "ebe3142a-9605-489c-91bd-8883fa5bcb28" "MIT Academic Integrity" %}}.
+Lucky for all of you, I will devote some specific class time to talking about plagiarism and how to cite sources properly. Unlucky for you, I'll hold you to that knowledge. In other words, if you've not had practice in learning how to cite sources properly, I'd suggest you spend some time with the Writing and Communication Center or come to my office and I'll walk you through it personally. Since the midterm and final exam have writing components to them, you might want to spend some time learning the difference between a reference list and an in-text citation, between MLA and APA, between a quotation and a paraphrase. More information on MIT's policy is available here: [MIT Academic Integrity](http://web.mit.edu/academicintegrity/).
